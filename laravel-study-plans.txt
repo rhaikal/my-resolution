@@ -6,3 +6,4 @@ MY LARAVEL STUDY PLANS
 = File Storage
 = Laravel Valet
 = Livewire
+= Policies
