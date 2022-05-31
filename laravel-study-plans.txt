@@ -9,4 +9,5 @@ MY LARAVEL STUDY PLANS
   * Storing file
     ^ Prepending & Appending To Files
 = Packages
+  * Laravel Valet
   * Livewire
