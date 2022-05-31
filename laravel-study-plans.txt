@@ -4,7 +4,6 @@ MY LARAVEL STUDY PLANS
   * Middleware
     ^ Defining
     ^ Registering
-  * Policies
 = File Storage
   * Retrieving file
   * Storing file
