@@ -1,0 +1,6 @@
+MY LARAVEL STUDY PLANS
+
+= Middleware
+= File Storage
+= Laravel Valet
+= Livewire
