@@ -1,6 +1,8 @@
 MY LARAVEL STUDY PLANS
 
 = Middleware
+  * Defining
+  * Registering
 = File Storage
 = Laravel Valet
 = Livewire
