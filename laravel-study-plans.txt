@@ -1,9 +1,14 @@
 MY LARAVEL STUDY PLANS
 
-= Middleware
-  * Defining
-  * Registering
+= Security
+  * Middleware
+    ^ Defining
+    ^ Registering
+  * Policies
 = File Storage
-= Laravel Valet
-= Livewire
-= Policies
+  * Retrieving file
+  * Storing file
+    ^ Prepending & Appending To Files
+= Packages
+  * Laravel Valet
+  * Livewire
